@@ -27,3 +27,5 @@ def strcounter(s):
     for sym, count in syms_counter.items():
         print(sym, count)
 strcounter('adgjfaaa')
+
+print(123456)
